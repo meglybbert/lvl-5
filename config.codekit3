@@ -83,13 +83,13 @@
 		},
 	"\/html\/head.kit": {
 		"ft": 2048,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/docs\/html\/head.html",
 		"oF": 0
 		},
 	"\/html\/scripts.kit": {
 		"ft": 2048,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/docs\/html\/scripts.html",
 		"oF": 0
 		},
@@ -287,7 +287,7 @@
 	"displayValue": "lvl-5",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 516399955
+	"lastBuiltDate": 516400203
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
